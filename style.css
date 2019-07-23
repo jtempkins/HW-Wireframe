@@ -25,7 +25,7 @@ Header {
 .nav {
     background: #ebebeb;
     text-align: center;
-    padding-top: .5px;
+    padding-top: 3px;
     word-spacing: 20px;
     height: 40px;
 }
@@ -40,7 +40,7 @@ Header {
     font-size: 14pt;
     position: fixed;
     left: 491px;
-    top: 104px;
+    top: 107px;
 }
             
 .footer {
@@ -68,14 +68,25 @@ Header {
 
     
 p {
-        color: #777;
-        background: #ebebeb;
-        font-size: 8pt;
-        text-align: left;
-        margin-left: 12px;
-        margin-right: 12px;
- }
+    color: #777;
+    background: #ebebeb;
+    font-size: 8pt;
+    text-align: left;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
     
+p2 {
+    color: #777;
+    background: #ebebeb;
+    font-size: 8pt;
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+
 .section {
     width: 495px;
     height: 295px;    
