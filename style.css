@@ -41,6 +41,8 @@ Header {
     position: fixed;
     left: 508px;
     top: 129px;
+    vertical-align: middle;
+
 }
             
 .footer {
@@ -63,6 +65,7 @@ Header {
     margin-right: 17px;
     margin-top: 0px;
     margin-bottom: 0px; 
+    padding-top: 10px;
     font-size: 14pt;
 }
 
@@ -84,6 +87,8 @@ p2 {
     text-align: center;
     margin-left: 12px;
     margin-right: 12px;
+    position: absolute;
+    top: 50%;
 }
 
 p3 {
@@ -125,7 +130,7 @@ h2{
     margin-left: 12px;
     margin-right: 12px;
     margin-top: 0px;
-    margin-bottom: 0pz;
+    margin-bottom: 0px;
     text-align: center;
     width: 435px;text-align: center;
     font-size: 14pt;
